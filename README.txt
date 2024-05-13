@@ -1,0 +1,1 @@
+Use .env file to set DB_USERNAME and DB_PASSWORD to connect to MongoDB.
